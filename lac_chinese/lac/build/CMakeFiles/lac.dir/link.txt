@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblac.a  CMakeFiles/lac.dir/src/customization_tagger.cpp.o CMakeFiles/lac.dir/src/ilac.cpp.o CMakeFiles/lac.dir/src/lac.cpp.o CMakeFiles/lac.dir/src/lac_util.cpp.o CMakeFiles/lac.dir/src/main_tagger.cpp.o
+/usr/bin/ranlib liblac.a

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ilac.h
+
+/home/zhaoze/PycharmProjects/lac/test/src/lac_demo.cpp
+map
+-
+list
+-
+vector
+-
+string
+-
+sys/time.h
+-
+iostream
+-
+stdlib.h
+/home/zhaoze/PycharmProjects/lac/test/src/stdlib.h
+ilac.h
+/home/zhaoze/PycharmProjects/lac/test/src/ilac.h
+

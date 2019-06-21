@@ -1,0 +1,3 @@
+/home/zhaoze/PycharmProjects/lac/output/lib/liblac.a
+/home/zhaoze/PycharmProjects/lac/output/demo/lac_demo
+/home/zhaoze/PycharmProjects/lac/output/include/ilac.h
